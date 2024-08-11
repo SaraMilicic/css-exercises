@@ -24,3 +24,19 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+body {
+  text-align: center;
+}
+.header {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  align-content: center;
+}
+
+.herbs {
+  display: flex;
+  align-items: center;
+  
+}
